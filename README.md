@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Varshini+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js;Cloud+Engineer+%7C+AWS+Lambda+%2B+S3;Building+production-grade+apps+from+scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rathi+Varshini+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js;Cloud+Engineer+%7C+AWS+Lambda+%2B+S3;Building+production-grade+apps+from+scratch)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=RathiVarshiniR&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/RathiVarshiniR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -12,43 +12,24 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class VarshiniR:
-    name        = "Rathi Varshini R"
-    location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
-    degree      = "B.E. in AI & ML @ KIT — KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY"
-    
-    stack = [
-        "React.js", "Next.js", "Node.js", "Express.js",
-        "Python", "Flask", "TypeScript",
-        "PostgreSQL", "MongoDB", "SQLite",
-        "AWS (S3, Lambda, RDS, DynamoDB)"
-    ]
-    
-    currently_learning = [
-        "System Design (intermediate concepts)",
-        "Advanced DSA & Competitive Programming",
-        "Serverless Architecture Patterns"
-    ]
-    
-    fun_fact  = "I deployed 4 production apps solo during a single internship 🚀"
-    
-    def motto(self):
-        return "Don't just follow tutorials — understand WHY each setting exists."
-
-me = RathiVarshiniR()
-print(me.motto())
-```
+-  I'm **Rathi Varshini R** — a Full Stack Developer & Cloud Enthusiast from **Coimbatore, Tamil Nadu, India 🇮🇳**
+-  Pursuing **B.E. in AI & ML** at KIT — Kalaignarkarunanidhi Institute of Technology *(GPA: 7.80)*
+-  I build with **React, Next.js, Node.js, Express, Flask, Python** and deploy on **Vercel & Render**
+-  Hands-on with **AWS** — S3, Lambda, RDS, DynamoDB — and I understand *why* each config exists, not just how
+-  Fun fact: I deployed **4 production-grade apps solo** during a single internship
+-  Currently levelling up in **System Design**, **Advanced DSA**, and **Serverless Architecture**
+-  Motto: *"Don't just follow tutorials — understand WHY each setting exists."*
+-  Reach me at **varshini.rathi.r@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -100,7 +81,7 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/RathiVarshiniR">
@@ -113,7 +94,7 @@ print(me.motto())
 
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RathiVarshiniR&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
@@ -121,7 +102,7 @@ print(me.motto())
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RathiVarshiniR&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
@@ -129,15 +110,8 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RathiVarshiniR&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
-
-## 💼 Work Experience
+##  Work Experience
 
 <details>
 <summary><b>🏢 Thiranex — Full Stack Developer Intern · May 2026 – Jun 2026 · Chennai, India (Remote)</b></summary>
@@ -169,7 +143,7 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -184,7 +158,7 @@ print(me.motto())
 
 ---
 
-## 🏅 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -200,7 +174,7 @@ print(me.motto())
 
 ---
 
-## 🎓 Education
+##  Education
 
 <div align="center">
 
@@ -212,7 +186,7 @@ print(me.motto())
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 ```
 🏗️  System Design        →  Distributed systems, caching, load balancing, DB sharding
