@@ -1,46 +1,162 @@
-<img src="assets/rathi-varshini-hero.svg" alt="Rathi Varshini — AI & ML Student, Software Developer, Research Enthusiast, Creative Technologist" width="100%">
 
-## About
+<div align="center">
 
-I'm a third-year B.Tech student in Computer Science and Engineering (AI & ML) at Kalaignar Karunanidhi Institute of Technology, Coimbatore. I'm building strong foundations in computer science while exploring machine learning, software engineering and research, and I like turning ideas into working software. I also enjoy the communication side of technology: coordinating students, speaking, and collaborating on teams.
+<img src="./assets/rathi-varshini-hero.svg" alt="Rathi Varshini R — Software Developer, AI/ML and Full-Stack" width="100%">
 
-## Experience & Highlights
+<p>
+  <a href="https://github.com/RathiVarshiniR">GITHUB</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/rathi-varshini-r">LINKEDIN</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:varshini.rathi.r@gmail.com">EMAIL</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/RathiVarshiniR/RathiVarshiniR/blob/main/Rathi_Varshini_R.pdf">RÉSUMÉ</a>
+</p>
 
-- **Student leadership:** represented 60+ students as Student Representative in my first year, and helped coordinate freshers and student activities. [[CONFIRM: exact role title and dates]]
-- **Communication:** welcomed Japanese guests in their native language during an institutional MOU visit; delivered a welcome address at a college hackathon; conducted a Student Companionship session. [[CONFIRM: wording and dates]]
-- **Internships:** full-stack development at Thiranex; cloud computing (AWS) at DecodeLabs. [[CONFIRM: durations and what you built]]
-- **Hackathons:** [[CONFIRM: list only what you took part in, with stage reached]]
-- **Certifications:** [[CONFIRM: from resume]]
+</div>
 
-## Selected Projects
+---
 
-**Human Activity Recognition: label-noise research**
-*Uniform, Transition-Boundary and Adjacent-Class Label Noise in Wearable Human Activity Recognition: A Controlled Subject-Wise Comparison.* Controlled label-noise experiments on UCI-HAR and PAMAP2 with subject-wise evaluation. Status: [[CONFIRM: e.g. "manuscript in preparation"]]. Repo: [[LINK]]
+## A little about how I build
 
-**Semantic Search Application**
-Sentence embeddings (all-MiniLM-L6-v2) with FAISS similarity search, BM25 hybrid retrieval and a FastAPI backend. [[CONFIRM: React/Vite frontend implemented?]] Repo: [[LINK]]
+I'm a **Computer Science (AI & ML) student at KIT, Coimbatore**. My work sits between full-stack engineering and applied AI — from designing APIs and data models to experimenting with retrieval systems and evaluating their output.
 
-**Student Portal**
-Express.js and SQLite app with bcryptjs and JWT authentication and admin/viewer roles. Repo: [[LINK]]
+I enjoy building things end to end, understanding the decisions underneath the interface, and being precise about what an experiment actually demonstrates.
 
-## Technical Skills
+## Selected work
 
-| Area | Tools |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>01 / MEANING</strong>
+
+<h3>Hybrid semantic search</h3>
+
+A retrieval system built over **26,872 customer-support records**. It combines `all-MiniLM-L6-v2` embeddings, FAISS indexing and BM25 score fusion, with a RAG endpoint grounded in retrieved records.
+
+On a labelled set of 25 queries, semantic retrieval recorded 100% Top-1 accuracy versus 24% for BM25, at approximately 22 ms per query. This is a small project evaluation set, not a general benchmark.
+
+`Python` `FastAPI` `React` `FAISS` `BM25` `RAG`
+
+<a href="https://github.com/RathiVarshiniR/Semantic-Search-Engine-Project">Explore the repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>02 / SHOPNOW</strong>
+
+<h3>MERN e-commerce platform</h3>
+
+An end-to-end commerce application with JWT authentication, separate Admin and User roles, persistent cart, catalogue search and filters, and an admin dashboard. Order handling includes stock validation, inventory updates and server-side GST calculation.
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+<a href="https://github.com/RathiVarshiniR/E-Commerce-Application">Explore the repository ↗</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<strong>03 / FAIRSHARE</strong>
+
+<h3>Contribution scoring for group work</h3>
+
+A contribution model combining task completion (40%), on-time rate (30%), activity (20%) and peer ratings (10%). The application uses a seven-table relational schema with SQLAlchemy and Flask-Login authentication.
+
+`Python` `Flask` `SQLite` `SQLAlchemy`
+
+<a href="https://github.com/RathiVarshiniR/FairShare">Explore the repository ↗</a>
+
+</td>
+</tr>
+</table>
+
+## Experience
+
+**Thiranex** — *Full Stack Developer Intern*  
+<sub>May 2026</sub>
+
+Built and deployed four full-stack applications, working with React interfaces, Node.js / Express REST APIs, and Vercel / Render deployment.
+
+**DecodeLabs** — *Cloud Computing Intern*  
+<sub>May 2026</sub>
+
+Worked with AWS S3 static hosting, EC2, DynamoDB and Lambda. Administered an Ubuntu server over SSH and used CloudWatch to monitor Lambda executions.
+
+## Engineering toolkit
+
+| Focus | Technologies |
 |---|---|
-| Languages | [[CONFIRM: e.g. Python, C++, JavaScript]] |
-| AI & ML | [[CONFIRM: e.g. PyTorch/TensorFlow, scikit-learn, FAISS, sentence-transformers]] |
-| Frontend | [[CONFIRM: e.g. React, Vite]] |
-| Backend | FastAPI, Express.js |
-| Databases | SQLite [[+ others?]] |
-| Tools | Git, GitHub, AWS [[CONFIRM]] |
-| Research & Data | UCI-HAR, PAMAP2 [[CONFIRM: NumPy, pandas...]] |
+| **Languages** | C++, Python, JavaScript, TypeScript, SQL, Bash |
+| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS |
+| **Backend** | Node.js, Express, FastAPI, Flask, REST APIs, JWT |
+| **Data** | MongoDB, SQLite, Supabase; PostgreSQL (working knowledge) |
+| **Cloud & tools** | AWS (S3, EC2, Lambda, DynamoDB, CloudWatch), Linux, Git, GitHub, Docker, Postman |
+| **Applied AI** | Sentence Transformers, FAISS, BM25, retrieval-augmented generation |
+| **Foundations** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
 
-## Contribution Activity
+## Selected milestones
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RathiVarshiniR&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&area_color=701A3D&hide_border=true&title_color=F8F0F3" alt="GitHub contribution activity graph for RathiVarshiniR" width="100%">
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>450+</strong><br>
+<sub>CodeChef problems</sub>
+</td>
+<td align="center" width="25%">
+<strong>1637</strong><br>
+<sub>LeetCode peak rating</sub>
+</td>
+<td align="center" width="25%">
+<strong>48+</strong><br>
+<sub>Trailhead badges</sub>
+</td>
+<td align="center" width="25%">
+<strong>8.40</strong><br>
+<sub>CGPA</sub>
+</td>
+</tr>
+</table>
 
-## Links
+- **LeetCode:** 100+ problems solved.
+- **Salesforce Trailhead:** Agentblazer Champion 2025.
+- **Academics:** Among the top five CGPA holders in my class.
 
-[GitHub](https://github.com/RathiVarshiniR) · [LinkedIn]([[URL]]) · [Portfolio]([[URL]])
+## Certifications
 
-<img src="assets/rathi-varshini-footer.svg" alt="Always learning, always building." width="100%">
+- NPTEL — Cloud Computing (Elite Silver)
+- AWS Academy — Cloud Foundations
+- Oracle Cloud Infrastructure — Foundations Architect
+- Cisco Networking Academy — Introduction to Modern AI
+
+## Education
+
+**B.E. — Computer Science and Engineering (Artificial Intelligence and Machine Learning)**
+
+KIT-Kalaignarkarunanidhi Institute of Technology, Coimbatore
+
+September 2024 – 2028 · **CGPA 8.40**
+
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/RathiVarshiniR">
+    <strong>Explore my GitHub profile ↗</strong>
+  </a>
+</p>
+
+<p align="center">
+  Repositories · Projects · Contributions
+</p>
+
+
+## Find me
+
+<a href="https://github.com/RathiVarshiniR">GitHub</a> · <a href="https://www.linkedin.com/in/rathi-varshini-r">LinkedIn</a> · <a href="mailto:varshini.rathi.r@gmail.com">Email</a>
+
+<p align="center">
+  <img src="./assets/rathi-footer.svg" alt="Build with intention" width="100%">
+</p>
