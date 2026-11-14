@@ -95,9 +95,10 @@ Worked with AWS S3 static hosting, EC2, DynamoDB and Lambda. Administered an Ubu
 # Certifications
 
 - NPTEL — Cloud Computing (Elite Silver)
+- NPTEL — Algorithmic Graph Theory and Data Structures (Elite)
 - AWS Academy — Cloud Foundations
 - Oracle Cloud Infrastructure — Foundations Architect
-- Cisco Networking Academy — Introduction to Modern AI
+- Cisco Networking Academy — Applied AI for Customer Review Analysis
 
 
 # Education
