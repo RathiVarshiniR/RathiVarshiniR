@@ -1,18 +1,77 @@
-# 💫 About Me:
-AI & ML Undergraduate | Software Development | Artificial Intelligence | Building Ideas into Impact.
+A Computer Science (AI & ML) student at KIT, Coimbatore, graduating in 2028. I build full-stack web applications and retrieval-based AI systems, and I like projects where the data model and the evaluation matter as much as the interface.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_varsh.in_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rathi-varshini-r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshini.rathi.r@gmail.com) 
+## Education
 
-# 💻 Tech Stack:
+B.E. Computer Science (Artificial Intelligence and Machine Learning), KIT-Kalaignarkarunanidhi Institute of Technology, Coimbatore. September 2024 to 2028. CGPA 8.40.
+
+
+#  Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
+
+
+# Selected Work:
+### Meaning: hybrid semantic search
+[Repository](https://github.com/RathiVarshiniR/Semantic-Search-Engine-Project)
+
+A search engine over 26,872 customer-support records. Records are embedded with `all-MiniLM-L6-v2` and indexed in FAISS. Results come from fusing normalised semantic scores with BM25, and a RAG endpoint grounds generated answers in the retrieved records. The React front end includes a t-SNE view of the embedding space.
+
+On a labelled set of 25 queries, semantic retrieval reached 100% Top-1 accuracy against 24% for BM25, at roughly 22 ms per query. The set is small, so I treat it as indicative rather than a benchmark.
+
+`Python` `FastAPI` `React` `FAISS` `BM25` `Sentence Transformers` `RAG`
+
+### ShopNow: MERN e-commerce platform
+[Repository](https://github.com/RathiVarshiniR/E-Commerce-Application)
+
+Built during my Thiranex internship. JWT authentication with separate Admin and User roles, a persistent cart, and a catalogue with search, category filters, sorting and pagination. Admins manage products, orders and users from a dashboard. Orders validate stock, deduct it on purchase and restore it on cancellation, and 18% GST is calculated on the server.
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+### FairShare: contribution scoring for group work
+[Repository](https://github.com/RathiVarshiniR/FairShare)
+
+Scores each member's contribution with a weighted model: task completion 40%, on-time rate 30%, activity 20%, peer ratings 10%. Data lives in a normalised seven-table schema (SQLAlchemy), and sessions are secured with Flask-Login and hashed passwords.
+
+`Python` `Flask` `SQLite` `SQLAlchemy`
+
+### Ritnezz: fitness app
+[Live app](https://v0-ritnezz.vercel.app/)
+
+A progressive web app for workout tracking and nutrition analytics, with screens for workouts, an exercise library, food logging and progress tracking.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase`
+
+
+## Experience
+
+**Full Stack Developer Intern, Thiranex** (May 2026)
+Designed, built and deployed four full-stack applications: a portfolio, a task manager, an e-commerce platform and a blog. React front ends on Vercel, Node.js and Express REST APIs on Render.
+
+**Cloud Computing Intern, DecodeLabs** (May 2026)
+Provisioned four AWS workloads: an S3 static site, an EC2 web server, a DynamoDB database and a serverless Lambda API. Administered an Ubuntu server over SSH (updates, Apache, service management) and monitored Lambda executions with CloudWatch.## Beyond coursework
+
+
+## Beyond coursework
+
+| | |
+|---|---|
+| CodeChef | 450+ problems solved |
+| LeetCode | Peak contest rating 1637, 100+ problems solved |
+| Salesforce Trailhead | Agentblazer Champion 2025, 48+ badges |
+| Academics | Among the top 5 CGPA holders in my class |
+| Leadership | Student representative for 60+ first-year students |
+| Certificates | NPTEL Cloud Computing (Elite Silver), AWS Academy Cloud Foundations, Oracle Cloud Infrastructure Foundations Architect, Cisco Introduction to Modern AI |
+
+
+#  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RathiVarshiniR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=RathiVarshiniR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RathiVarshiniR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
+##  Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_varsh.in_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rathi-varshini-r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshini.rathi.r@gmail.com) 
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
